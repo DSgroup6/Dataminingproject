@@ -1,0 +1,1 @@
+# Data mining models and notebook for the group assignment of group 6
